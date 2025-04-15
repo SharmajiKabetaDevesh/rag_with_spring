@@ -1,0 +1,33 @@
+DEVESH SHARMA
+ (+91) 7738874661 deveshrs2016@gmail.com
+ LinkedIn: linkedin.com/in/devesh-sharma-814b3919a ⋄GitHub: github.com/SharmajiKabetaDevesh
+ EDUCATION
+ Datta Meghe College of Engineering, Mumbai
+ September 2022- Aug 2025
+ Bachelors in Engineering
+ Department of Artificial Intelligence and Data Science
+ Overall Score: 8.9 CGPA
+ TECHNICAL SKILLS
+ Cloud and DevOps: Git, Jenkins, Docker, Kubernetes, Terraform, Azure
+ Programming Languages: Java, Python, SQL, Kotlin
+ Other Concepts: Flask,XML Machine Learning, Generative AI, Operating Systems
+ PROJECTS
+ End-to-End Data Science Pipeline with MLflow & Azure- Built a scalable ETL pipeline fetching data from MongoDB Atlas with schema validation.- Applied KNN Imputer for missing values and trained multiple ML models, selected the best
+ using R² score, and tracked via MLflow & DVC.- Stored models in Azure Blob for versioning and deployed inference API using FastAPI.
+ Fly: AI-Powered Chat Application for Kids- Developed a secure chat application that detects obscene content in images/videos.- Utilized Firebase for storage, AI-based moderation in Python, and deployed on Azure.
+ AI-Powered Natural Language to SQL Query Generator- Designed a Streamlit-based web app to convert natural language queries into SQL.- Integrated Google’s Gemini model to query SQLite databases efficiently.
+ CI/CD Pipeline with Jenkins and ArgoCD- Implemented an end-to-end CI/CD pipeline for deploying a Machine Learning application on
+ Kubernetes.- Integrated Docker, SonarQube for static analysis, and automated deployments on Azure.
+ CERTIFICATIONS
+ Microsoft Certified: Azure Fundamentals (AZ-900)
+ Demonstrates foundational knowledge of cloud concepts, Azure services, and security.
+ ACADEMIC ACHIEVEMENTS
+ • 2nd Prize in AI Spark Mini Project Presentation for ”Fly” (2024, Datta Meghe College of
+ Engineering).
+ • Publicity team member for SHAIDS events, contributing to advertising and promotions.
+ PUBLICATIONS
+ Unveiling Market Sentiments: FinBERT-Powered Analysis of Stock News Headlines
+ International Journal of Scientific Research (IJSR)
+ September 2024
+ Abstract: This study evaluates Vanilla Transformers, BERT, and FinBERT for sentiment
+ analysis on financial data.
