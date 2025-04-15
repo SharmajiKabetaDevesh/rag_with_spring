@@ -14,6 +14,11 @@ public class ChatController {
         return "Api is working fine";
     }
 
+     @PostMapping("/chat/llm")
+    String getRagResponse(@RequestBody String prompt){
+        return modelConfig.chatLLm(prompt);
+    }
+
     @PostMapping("/chat")
     String getResponse(@RequestBody String prompt){
         return modelConfig.singleResponse(prompt);
